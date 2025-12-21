@@ -1,0 +1,4 @@
+{
+  "openai_api_key": "YOUR_OPENAI_KEY",
+  "search_api_key": "OPTIONAL_SERPAPI_KEY"
+}
