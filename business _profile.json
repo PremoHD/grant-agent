@@ -1,0 +1,84 @@
+{
+  "businessName": "Ellis Care Inc",
+  "founder": "Justus Ellis",
+  "location": "United States",
+  "email": "EllisCare.Gov@EllisCare.work.gd",
+  "phone": "(866)870-9168",
+  "mission": "To provide practical consulting solutions, systems setup, community outreach support, and operational problem-solving for individuals, nonprofits, and small organizations.",
+  "coreConsultingAreas": [
+    "Business Formation & Operations",
+    "Community Outreach & Program Development",
+    "Grant & Funding Strategy Support",
+    "Financial Systems Education",
+    "Blockchain & Emerging Tech Consulting",
+    "IT Infrastructure & Web Hosting Setup",
+    "Legal & Administrative Documentation Support",
+    "Automation & Workflow Optimization"
+  ],
+  "experience": [
+    {
+      "role": "Founder & Principal Consultant",
+      "company": "Ellis Care Inc",
+      "years": "2024–Present",
+      "responsibilities": [
+        "Advised on business setup, compliance, and operations",
+        "Assisted nonprofits with grant applications, program descriptions, and impact statements",
+        "Developed community outreach frameworks",
+        "Provided consulting on financial systems (ACH, routing/account numbers, ledgers)",
+        "Supported clients with legal document preparation (non-attorney)",
+        "Designed and reviewed service agreements and payment structures",
+        "Guided clients on technology adoption to increase efficiency"
+      ]
+    }
+  ],
+  "techProjects": [
+    {
+      "focus": "Blockchain & Emerging Tech",
+      "responsibilities": [
+        "Explained blockchain mechanics, mining, and ledgers",
+        "Consulted on custom blockchain creation for education/testing",
+        "Advised on blockchain use cases for transparency and community trust",
+        "Explained limitations, risks, and realistic revenue expectations"
+      ]
+    },
+    {
+      "focus": "Automation & Digital Infrastructure",
+      "responsibilities": [
+        "Set up servers and basic web infrastructure",
+        "Consulted on automation tools and AI agents",
+        "Guided local vs cloud deployment",
+        "Evaluated low-cost tech stacks for startups/nonprofits"
+      ]
+    }
+  ],
+  "adminLegalSupport": [
+    "Drafted motions, service agreements, payment/conditional agreements",
+    "Assisted with bond reduction packets",
+    "Organized case materials and timelines",
+    "Provided strategic guidance on processes (not legal advice)"
+  ],
+  "communityImpact": [
+    "Developed community outreach mission",
+    "Focused on education access, financial literacy, and engagement",
+    "Assisted with grant narrative writing: community needs, program impact, use-of-funds planning, funder messaging"
+  ],
+  "skills": [
+    "Business Consulting & Strategy",
+    "Systems Thinking & Problem Solving",
+    "Financial Infrastructure Education",
+    "Technical Communication",
+    "Grant Writing Support",
+    "Contract & Agreement Drafting",
+    "Automation & Workflow Design",
+    "Research & Analysis",
+    "Client Advisory & Training"
+  ],
+  "tools": [
+    "Blockchain fundamentals & mining concepts",
+    "Web hosting & server environments",
+    "Automation platforms & AI agents",
+    "Financial transaction systems (ACH, ledgers)",
+    "Documentation & process design"
+  ],
+  "consultingStyle": ["Straightforward", "Systems-focused", "No hype, no confusion", "Built for real people"]
+}
