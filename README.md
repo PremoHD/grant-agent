@@ -15,7 +15,7 @@ jchain_stack/
 ├── auth/
 │   └── api_key.h
 ├── rate_limit/
-│   └── limiter.h
+│   └── limiter.h 
 ├── storage/
 │   └── jchain.db
 └── main.cpp
